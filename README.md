@@ -4,7 +4,7 @@ electronics, control, machine learning and autonomous systems, and renewable ene
 
 ## Featured Projects
 
-### Formula Student EV Battery Charger
+### Human-Machine Interface (HMI) for Formula Student EV Battery Charger
 Development of the low-voltage control and user-interface system for a
 wide-output voltage range EV battery charger, including STM32 firmware, LVGL touchscreen
 GUI, CAN/UART communications, diagnostics, charger control logic, and corresponding PCB
