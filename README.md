@@ -27,7 +27,3 @@ of Hong Kong, investigating a revised source-seeking approach using particle
 filtering and direct optimisation.
 
 [View project →](https://github.com/ChunHeiWongIvan/Radiation_Source_Localisation_Particle_Filtering_Optimisation)
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanwchunhei/)
